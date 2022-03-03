@@ -18,8 +18,13 @@
   - Laravel
   - .Net
   
+  Clouds
+  - Microsoft Azure
+  - Google Cloud
+  - Firebase
   
-Learning:
+  
+TO LEARN:
   - Go
   - Rust
 
