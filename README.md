@@ -9,14 +9,12 @@
   Mobile
   - Kotlin
   - Swift
-  - Dart
   - Flutter
  
   Backend
   - C#
   - PHP
-  - Laravel
-  - .Net
+  - Go
   
   Clouds
   - Microsoft Azure
@@ -25,7 +23,6 @@
   
   
 TO LEARN:
-  - Go
   - Rust
 
   
