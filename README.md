@@ -21,10 +21,6 @@
   - Firebase
   
   
-TO LEARN:
-  - Rust
-
-  
   
   
 
