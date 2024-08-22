@@ -12,9 +12,20 @@
   Backend
   - C#
   - Go
+  - Python
+ 
+  IoT
+  - Arduino
+  - Raspberry Pi
+
+  Machine Learning
+  - Python
+  - MLFlow ,Tensor flow, PyTorch, MediaPipe, Sagemaker
+  - Mojo
   
   Clouds
   - Microsoft Azure
+  - AWS
   - Google Cloud
   - Firebase
   
